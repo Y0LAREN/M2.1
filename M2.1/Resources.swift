@@ -20,11 +20,12 @@ enum Constants{
         static let font1 = UIFont.systemFont(ofSize: 14)
         static let font2 = UIFont.systemFont(ofSize: 16)
         static let font3 = UIFont.systemFont(ofSize: 24)
+        static let font4 = UIFont.systemFont(ofSize: 36)
     }
     
     enum Texts{
         static let text1 = "Hello, World"
-        static let text2 = "I think that, look it the beatifull things"
+        static let text2 = "Hello, Egorka @@@@"
         static let text3 = " ^_^ "
     }
 }
