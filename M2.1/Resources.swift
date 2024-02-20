@@ -25,7 +25,7 @@ enum Constants{
     
     enum Texts{
         static let text1 = "Hello, World"
-        static let text2 = "Hello, Egorka @@@@"
+        static let text2 = "Hello Maksimka =)"
         static let text3 = " ^_^ "
     }
 }
