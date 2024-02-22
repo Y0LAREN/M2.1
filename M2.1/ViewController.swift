@@ -11,8 +11,14 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
     }
+    
+    private lazy var label1: UILabel = {
+        let label = UILabel()
+        label.text = Constants.Texts.text3
+        return  label
+    }()
 
 
 }
