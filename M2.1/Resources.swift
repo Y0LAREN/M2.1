@@ -14,6 +14,8 @@ enum Constants{
         static let colorBlack = UIColor.black
         static let colorYellow = UIColor.yellow
         static let colorGreen = UIColor.green
+        static let colorGreen = UIColor.systemPink
+        static let colorGreen = UIColor.gray
     }
     
     enum Fonts{
